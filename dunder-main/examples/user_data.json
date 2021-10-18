@@ -1,0 +1,12 @@
+{
+	"users":[
+		{
+			"name": "Alex",
+			"player_type": "Slayer"
+		},
+		{
+			"name": "Ben",
+			"player_type": "Healer"
+		}
+	]
+}
